@@ -1,0 +1,23 @@
+
+
+body {
+    background-color: Mocha;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.search {
+    height: 200px;
+    width: 200 px;
+    background-color: cream;
+    position: relative;
+}
+
+.search .btn{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
