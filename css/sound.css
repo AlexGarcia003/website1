@@ -1,5 +1,9 @@
 
 
 body {
-    background-color: blue;
+    background-color: rgb(53, 40, 30)
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
 }
