@@ -1,9 +1,14 @@
-
+<!--import font-->
 
 * {
+:root {
+    --primary-color: rgb(48,51,107);
+    --secondary-color: rgb(177,46,221);
+}
     box-sizing: border-box;
 }
 
 body {
+    font-family "lato", san-serif;
     margin: 0;
 }
