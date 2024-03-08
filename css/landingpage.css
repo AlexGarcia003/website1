@@ -92,4 +92,12 @@ button {
 
 .toggle {
     background-color: rgba(0,0,0,0.5);
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.cta-btn {
+    padding: 12px 20px;
+    font-size: 20px;
 }
