@@ -1,10 +1,17 @@
 toggle = document.getElementById('toggle')
 open = document.getElementtListenerById('open')
 modal = document.getElementById('modal')
+close = document.getElementById('close')
 
 
 toggle.addEventListener('click', () => {
     document.body.classList.toggle('show-nav')
 })
 
-open.addEventListener('click', ())
+open.addEventListener('click', () => {
+    modal.classList.add('show-modal')
+})
+
+close.addEventListener('click', () => {
+    
+})
