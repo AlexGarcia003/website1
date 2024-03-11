@@ -125,6 +125,10 @@ button {
     display: none;
 }
 
+.modal-container.show-model {
+    display: block;
+}
+
 .modal {
     background-color: white;
     position: absolute;
