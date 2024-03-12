@@ -1,11 +1,12 @@
 <!--import font-->
 
-* {
 :root {
     --primary-color: rgb(48,51,107);
     --secondary-color: rgb(177,46,221);
     --modal-duration: 1s;
 }
+
+* {
     box-sizing: border-box;
 }
 
