@@ -1,7 +1,7 @@
 var audio, playbtn, mutebtn, seek_bar;
 function initAudioPlayer(){
 	audio = new Audio();
-	audio.src = "http://music.163.com/song/media/outer/url?id=410710413.mp3";
+	audio.src = <audio src="sounds/Jennifer.mp3" id="Jennifer"></audio>;
 	audio.loop = true;
 	audio.play();
 	// Set object references
