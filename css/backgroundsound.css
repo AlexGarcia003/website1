@@ -1,0 +1,20 @@
+
+
+#pageAudio{
+	width:90%; margin:auto; padding:10px;
+}
+
+
+button{ border:none; cursor:pointer; outline:none; }
+
+button#playpausebtn{	background:url(https://image.flaticon.com/icons/svg/189/189889.svg) no-repeat;
+	width:30px;
+	height:30px;
+
+}
+
+button#mutebtn{	background:url(https://image.flaticon.com/icons/svg/204/204287.svg) no-repeat;
+	width:30px;
+	height:30px;
+}
+
